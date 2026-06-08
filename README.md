@@ -48,6 +48,7 @@ Model Context Protocol (MCP) 是一种用于大型语言模型与上下文交互
 
   
   [mcp.so](https://mcp.so/)，网站用途：**mcp server导航**，[**使用手册-进入**](tools/mcpso.md)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana上AI智能体的链上信任评分和身份验证MCP服务器。在x402支付授权前验证智能体钱包信誉。免费MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - 上下文处理工具
 - MCP 兼容的开发框架
 - 调试与可视化工具
